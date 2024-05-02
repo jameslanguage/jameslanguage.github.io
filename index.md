@@ -63,4 +63,10 @@ An example of such a value is `JAMES88-JML!%&??1!$!`.\
 > **Did you know?**\
 > A Jamal can easily be found from attempting to `add` an integer value into a variable that contains a string.
 
-# 4. 
+# 4. System Values
+The `system` variable keeps data about the current session. It cannot be read or written onto.\
+> **Did you know?**\
+> `jamal` works by setting this variable to a [Jamal value](#jamals).
+
+# 5. Examples
+*This section is coming soon...*
