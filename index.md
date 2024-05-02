@@ -41,4 +41,21 @@ Edits the current code at a specified line.
 Inserts a new line under the current editing line.
 
 `export`\
-Exports the current program to a shareable code.
+Exports the current program to a shareable code. Also copies the code to the clipboard.
+
+# 3. Data Types
+
+### Integers
+Integers are whole numbers like `1`, `-3`, `888`, `234567`.
+
+### Floats
+Floats are numbers with decimals like `2.0`, `0.17`, `-1.11`, `3.1415926`.
+
+### Strings
+Strings are text surrounded by parentheses, like `(James)`, `(Hello World!)`, `(12 quick brown foxes)`, `(AAAAAAAAAAAAAAAAAAAAA)`
+
+### Jamals
+Jamals are a special type of data which corrupts the program. These usually come from an error.\
+An example of such a value is `JAMES88-JML!%&??1!$!`.\
+> **Did you know?**\
+> A Jamal can easily be found from attempting to `add` an integer value into a variable that contains a string.
