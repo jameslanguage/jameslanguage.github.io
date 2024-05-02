@@ -12,7 +12,7 @@ Declares a variable for use. A newly created variable will hold the value `null`
 Overwrites the current value of a variable, and sets it to a value or another variable.
 
 `add [variable] [value]`\
-Adds a value or another integer/float variable to a variable. Note that the existing variable must hold a value of an integer or a float, otherwise it will return a Jamal value.
+Adds a value or another integer/float variable to a variable. Note that the existing variable must hold a value of an integer or a float, otherwise it will return a Jamal value. [Read here](#jamals) for more information.
 
 `destroy [variable]`\
 Destroys a variable. Do note that the value that the variable holds will also be destroyed in the process. Not quite practical, but kind of fun to use.
@@ -22,6 +22,9 @@ Prints a value or a variable onto the screen.
 
 `jamal`\
 Jamals the system. Check below for more info.
+
+`wait [seconds]`\
+Pause the program for a specified time.
 
 `clear`\
 Clears everything on the screen.
@@ -59,3 +62,5 @@ Jamals are a special type of data which corrupts the program. These usually come
 An example of such a value is `JAMES88-JML!%&??1!$!`.\
 > **Did you know?**\
 > A Jamal can easily be found from attempting to `add` an integer value into a variable that contains a string.
+
+# 4. 
