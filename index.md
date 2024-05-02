@@ -69,4 +69,34 @@ The `system` variable keeps data about the current session. It cannot be read or
 > `jamal` works by setting this variable to a [Jamal value](#jamals).
 
 # 5. Examples
-*This section is coming soon...*
+
+### Landmine
+```
+james
+print (LANDMINE !!!)
+wait 1
+jamal
+```
+
+### Time bomb
+```
+james
+create timer
+set timer 3
+print timer
+wait 1
+clear
+add timer -1
+print timer
+wait 1
+clear
+add timer -1
+print timer
+wait 1
+clear
+print timer
+wait 0.5
+destroy system
+```
+
+*More examples coming soon!*
