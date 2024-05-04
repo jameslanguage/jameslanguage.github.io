@@ -1,0 +1,1 @@
+Welcome to the JAMSS88 Beta! Please report any bugs to the developer. Note that the "destroy" and "jamal" functions is not completed yet.
