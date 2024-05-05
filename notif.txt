@@ -1,1 +1,1 @@
-Welcome to the JAMES88 Beta! Please report any bugs to the developer. Note that the "destroy" and "jamal" functions is not completed yet.
+<b>ALERT: DUE TO A BUG IN THE CODE, you may not be able to start the system. Try clicking on the screen, and if the system is frozen, request a new copy from the developer.</b> Welcome to the JAMES88 Beta! Please report any bugs to the developer. Note that the "destroy" and "jamal" functions is not completed yet.
